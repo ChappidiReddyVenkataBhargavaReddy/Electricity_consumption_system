@@ -1,0 +1,1 @@
+.venv/\n.venv*/\n__pycache__/\n*.py[cod]\n.env\ndatabase/*.db\n*.png\n
